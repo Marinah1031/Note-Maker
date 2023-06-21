@@ -1,5 +1,5 @@
+const router = require('express').Router();
 const fs = require('fs');
-const path = require('path');
 const { v4: uuidv4 } = require('uuid'); // Using the `uuid` package to generate unique IDs
 
 const notesData = require('../db/db.json');

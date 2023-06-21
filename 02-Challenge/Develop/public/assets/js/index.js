@@ -4,14 +4,14 @@ let saveNoteBtn;
 let newNoteBtn;
 let noteList;
 
-if (window.location.pathname === '/notes') {
+if (window.location.pathname === '/Note-Maker') {
   noteTitle = document.querySelector('.note-title');
   noteText = document.querySelector('.note-textarea');
   saveNoteBtn = document.querySelector('.save-note');
   newNoteBtn = document.querySelector('.new-note');
   noteList = document.querySelectorAll('.list-container .list-group');
 }
-
+console.log(window.location.pathname);
 // Show an element
 const show = (elem) => {
   elem.style.display = 'inline';
