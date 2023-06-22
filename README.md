@@ -39,4 +39,4 @@ The notes are saved under db.json where even if the application is closed out an
 ## MIT
 ### The MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+For more information, visit: LICENSE.md 
