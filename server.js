@@ -14,6 +14,10 @@ app.use(express.json());
 //This middleweare serves static files from the 'public' directory, and any files can be accessed through their URL
 app.use(express.static('public'));
 //The apiRoutes is accessible under the /api path
+app.use((req, res, next) => {
+  console.log(`Incoming request to ${req.method} ${req.originalUrl}`);
+  next();
+});
 app.use('/api', apiRoutes);
 //This htmlRoutes will be accessible at the roote path
 app.use('/', htmlRoutes);
