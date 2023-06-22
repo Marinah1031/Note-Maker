@@ -1,5 +1,5 @@
 # Note-Maker
-## Deployed Application: https://best-notes-8aef0808d693.herokuapp.com/notes.html
+## Deployed Application: [https://best-notes-8aef0808d693.herokuapp.com/notes.html](https://best-notes-8aef0808d693.herokuapp.com/)
 ### This App is created to help those who want to take quick notes and return to them without disappearing.
 ![Screenshot (54)](https://github.com/Marinah1031/Note-Maker/assets/125934804/52e8f7a8-131d-4d68-982c-b06eef96597a)
 
