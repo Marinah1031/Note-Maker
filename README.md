@@ -35,5 +35,8 @@ The notes are saved under db.json where even if the application is closed out an
 - Google, with the information provided, there were many helpful tips on many terms that I was not familiar with.
 - Youtube, many tutorials that helped me better understand Express.js.
   
-## LISCENSING
-MITLISCENSING
+
+## MIT
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
