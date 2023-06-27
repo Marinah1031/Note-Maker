@@ -34,3 +34,9 @@ The notes are saved under db.json where even if the application is closed out an
 - Trinh Nguyen, Tutor, helped me identify bugs within my application and clear up information I had interpreted incorrectly.
 - Google, with the information provided, there were many helpful tips on many terms that I was not familiar with.
 - Youtube, many tutorials that helped me better understand Express.js.
+  
+
+## MIT
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+For more information, visit: LICENSE.md 
